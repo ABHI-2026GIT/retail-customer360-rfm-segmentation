@@ -8,3 +8,8 @@ The goal of the project is to segment customers into meaningful groups such as *
 The project demonstrates how customer transaction data can be processed using *Python, SQL, and Power BI* to generate actionable business insights
 
 ---
+
+## Tools & Technologies
+- *Python* – Data preprocessing and RFM calculation
+- *SQL  (MySQL)* – Data cleaning and analytics queries
+- *Power BI* – Data visualization and dashboard creation
