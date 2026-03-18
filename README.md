@@ -12,4 +12,5 @@ The project demonstrates how customer transaction data can be processed using *P
 ## Tools & Technologies
 - *Python* – Data preprocessing and RFM calculation
 - *SQL  (MySQL)* – Data cleaning and analytics queries
-- *Power BI* – Data visualization and dashboard creation
+- *Power BI* – Data visualization and dashboard creation.
+
