@@ -13,4 +13,21 @@ The project demonstrates how customer transaction data can be processed using *P
 - *Python* – Data preprocessing and RFM calculation
 - *SQL  (MySQL)* – Data cleaning and analytics queries
 - *Power BI* – Data visualization and dashboard creation.
+  
+---
+
+## Dataset
+
+The dataset contains retail transaction data used to analyze customer purchasing behavior.
+
+### Dataset Fields
+- CustomerID – Unique customer identifier
+- InvoiceNo – Transaction identifier
+- InvoiceDate – Date of purchase
+- Quantity – Number of products purchased
+- UnitPrice – Price per product
+- TotalPrice – Total purchase amount
+- Country – Customer location
+
+---
 
