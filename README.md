@@ -31,3 +31,15 @@ The dataset contains retail transaction data used to analyze customer purchasing
 
 ---
 
+
+## Data Processing Steps
+
+### 1. Data Cleaning (SQL)
+SQL was used to perform basic data quality checks:
+
+- Duplicate record detection
+- Null value handling
+- Transaction validation
+- Customer-level aggregation
+
+---
