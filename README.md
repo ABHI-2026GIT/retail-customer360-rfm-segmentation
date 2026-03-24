@@ -43,3 +43,39 @@ SQL was used to perform basic data quality checks:
 - Customer-level aggregation
 
 ---
+
+### 2. RFM Calculation (Python)
+
+Customer value was calculated using three metrics:
+
+*Recency*
+Days since the customer's last purchase.
+
+*Frequency*
+Number of purchases made by the customer.
+
+*Monetary*
+Total amount spent by the customer.
+
+These values were converted into *RFM scores (1–5)* to evaluate customer behavior.
+
+---
+
+### 3. Customer Segmentation
+
+Customers were segmented based on RFM scores into groups such as:
+
+- Champions
+- Loyal Customers
+- Potential Loyalists
+- Promising
+- Recent Users
+- Needs Attention
+- About To Sleep
+- Hibernating
+- Lost
+- Price Sensitive
+
+These segments help businesses identify *high-value customers and potential churn risks*.
+
+---
