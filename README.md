@@ -79,3 +79,31 @@ Customers were segmented based on RFM scores into groups such as:
 These segments help businesses identify *high-value customers and potential churn risks*.
 
 ---
+
+### Dashboard Visuals
+
+1. *Customer Segmentation Treemap* – Distribution of customers across segments  
+2. *Revenue by Segment* – Revenue contribution by each customer group  
+3. *Revenue Trend Over Time* – Customer purchasing patterns across time  
+4. *RFM Contribution Analysis (Decomposition Tree)* – Revenue analysis based on RFM scores  
+5. *Customer RFM Detail Table* – Detailed RFM metrics for each customer  
+
+---
+
+## Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard.png)
+
+---
+
+## Key Insights
+
+- Champions and Loyal Customers generate the highest revenue.
+- Hibernating and Lost customers indicate potential churn risk.
+- Loyal customers have the highest purchase frequency.
+- Revenue patterns vary across time.
+
+These insights help businesses improve *customer retention strategies and targeted marketing campaigns*.
+
+---
+
